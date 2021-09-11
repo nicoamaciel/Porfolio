@@ -1,2 +1,2 @@
 # PracticaPortfolio1
-Practica Html css - Media queries responsive
+Practica Maqueteado Html5 - Estilos Css3 - Bootstrap - Media queries responsive
